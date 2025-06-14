@@ -1,5 +1,5 @@
 # ColorSplit
-A batch-processing ImageJ macro that recursively processes .czi image files, splits their channels, assigns user-defined color maps, performs Z-stack projection (Max Intensity), and saves the result as TIFF files in a mirrored output directory structure.
+A batch-processing ImageJ macro that processes .czi image files, splits it into four separate channels, assigns user-defined color maps, performs a Z-stack projection (Max Intensity), and saves the result as TIFF files in a mirrored output directory structure.
 
 ## Features
 
