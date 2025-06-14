@@ -29,8 +29,8 @@ If not already installed:
 
 ### 2. Download the Macro
 
-1. Download the [ColorSplit macro right here!](./ColorSplit.ijm)
-2. Make sure you move it to a directory you have easy access to
+1. Download the [ColorSplit macro right here!](./ColorSplit.ijm) Make sure to click the download button on the right of your screen!
+2. Make sure you move it to a directory you have easy access to.
 ---
 
 ## How to Run
