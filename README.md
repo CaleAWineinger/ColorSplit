@@ -29,7 +29,7 @@ If not already installed:
 
 ### 2. Download the Macro
 
-1. Download the [ColorSplit macro right here!](./ColorSplit.ijm) Make sure to click the download button on the right of your screen!
+1. Download the [ColorSplit macro right here!](https://github.com/cale-wineinger/ColorSplit/releases/latest/download/ColorSplit.ijm)
 2. Make sure you move it to a directory you have easy access to.
 ---
 
