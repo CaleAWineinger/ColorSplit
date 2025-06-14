@@ -29,23 +29,24 @@ If not already installed:
 
 ### 2. Download the Macro
 
-1. Download the [ColorSplit macro right here!](https://github.com/CaleAWineinger/ColorSplit/releases/download/v1.0.0/ColorSplit.ijm)
-2. Make sure you move it to a directory you have easy access to.
+1. Download the [ColorSplit macro right here!](https://github.com/CaleAWineinger/ColorSplit/releases/download/v1.0.0/Color_Split.ijm)
+2. Open your File Explorer and go to `fiji-latest-win64-jdk > Fiji > scripts`
+3. Move the downloaded ColorSplit file into the scripts folder.
 ---
 
 ## How to Run
 
 **Important:**  
 Do **not** run using `Plugins > Macros > Run...` — it will not work correctly.  
-You must **open it in the Macro Editor** and run it from there.
+You must **Use the Script feature** and run it from there.
 
 ### Steps:
 
-1. Go to `Plugins > Macros > Edit...`
-2. Open your macro file
-3. Click `Run`
+1. Go to `Plugins > Scripts > Color Split`
 
-You’ll be prompted to:
+The Scripts tab is at the bottom under plugins it may require some scrolling to get to.
+   
+2. You’ll be prompted to:
 
 - Select an **Input directory** (containing `.czi` files)
 - Select an **Output directory**
