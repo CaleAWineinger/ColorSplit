@@ -32,6 +32,7 @@ If not already installed:
 1. Download the [ColorSplit macro right here!](https://github.com/CaleAWineinger/ColorSplit/releases/download/v1.0.0/Color_Split.ijm)
 2. Open your File Explorer and go to `fiji-latest-win64-jdk > Fiji > scripts`
 3. Move the downloaded ColorSplit file into the scripts folder.
+4. Make sure to restart Fiji if it is currently open.
 ---
 
 ## How to Run
